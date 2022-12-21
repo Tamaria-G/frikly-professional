@@ -1,0 +1,57 @@
+
+
+@media (max-width: 768px) {
+
+    .container {
+        flex-direction: column;
+        align-items: center;
+
+    }
+    section {
+        align-items: center;
+        
+    }
+    .section-txt {
+        margin: 0 auto;
+        margin-bottom: 150px;
+        
+    }
+    .section-img {
+        margin: 0 auto;
+    }
+    .offers-container, .tools-container {
+        flex-wrap: wrap;
+    }
+    .group {
+        flex-wrap: wrap;
+    }
+
+    .bellow {
+        flex-direction: column;
+    }
+    .social {
+        margin: 0 auto;
+    }
+   
+    .all-brands {
+        justify-content: center;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 360px) {
+
+
+
+
+
+
+}
